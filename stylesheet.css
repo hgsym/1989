@@ -95,6 +95,9 @@ header {
   }
   .arrow {
   float: middle;
+  margin-left: 30px;
+  margin-right: 30px;
+  
   }
   .emoji {
   float: right;
@@ -113,13 +116,9 @@ header {
   
   }
 
- .diary {
+ .container {
    display: flex;
   
   }
 
- .arrow {
-   margin-left: 30px;
-   margin-right: 30px;
-  
-  }
+ 
